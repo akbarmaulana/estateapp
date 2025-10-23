@@ -1,0 +1,11 @@
+# Dependencies
+/estateapi/node_modules
+/administrativeapi/node_modules
+
+#env
+/estateapi/.env
+/administrativeapi/.env
+
+#packagejson
+/estateapi/package-lock.json
+/administrativeapi/package-lock.json
